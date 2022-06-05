@@ -1,0 +1,50 @@
+! Based on https://github.com/catppuccin/catppuccin/blob/0392d297bb38554d571021932e95cd590e71df40/README.md
+
+!!
+! Special colors
+!!
+
+! From Text
+Zutty.fg: #4c4f69
+
+! From Base
+Zutty.bg: #eff1f5
+
+! From Rosewater
+Zutty.cr: #dc8a78
+
+!!
+! Base palette colors
+!!
+
+! Black from Surface1
+Zutty.color0: #bcc0cc
+Zutty.color8: #bcc0cc
+
+! Red
+Zutty.color1: #d20f39
+Zutty.color9: #d20f39
+
+! Green
+Zutty.color2: #40a02b
+Zutty.color10: #40a02b
+
+! Yellow
+Zutty.color3: #df8e1d
+Zutty.color11: #df8e1d
+
+! Blue
+Zutty.color4: #1e66f5
+Zutty.color12: #1e66f5
+
+! Magenta from Pink
+Zutty.color5: #ea76cb
+Zutty.color13: #ea76cb
+
+! Cyan from Sky
+Zutty.color6: #04a5e5
+Zutty.color14: #04a5e5
+
+! White from Text
+Zutty.color7: #4c4f69
+Zutty.color15: #4c4f69
